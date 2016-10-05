@@ -1,2 +1,2 @@
 # GitTest
-Testing a Repo
+Testing a Repo in my terminal!
